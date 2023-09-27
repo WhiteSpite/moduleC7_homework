@@ -13,5 +13,4 @@ export function isPrime(num) {
         else result = 'composite'
     } else result = 'incorrect arg'
     return result
-    //test
 }
